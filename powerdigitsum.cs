@@ -1,4 +1,4 @@
-# power-digit-sum
+
 
 using System;
  
@@ -7,9 +7,10 @@ class mainclass
     public static void Main(string[] args)
     {
         int sum = 0;
-         
+        
+        //losowa liczba, ktora zmieci wszystkie cyfry dzialania 2 ^ 1000  
         int[] digits_arr = new int[400];
-        //losowa liczba, ktora zmieci wszystkie cyfry dzialania 2 ^ 1000 
+        
         digits_arr[0] = 2;
         int carry = 0;
  
