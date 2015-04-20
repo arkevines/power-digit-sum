@@ -41,6 +41,6 @@ class mainclass
  
         Console.WriteLine();
  
-        Console.WriteLine("Sum of Digits = " + sum);
+        Console.WriteLine("Suma cyfr = " + sum);
     }
 }
